@@ -1,0 +1,19 @@
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap03\Average Race Times\Average Race Times\bin\Debug\Average Race Times.exe.config
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap03\Average Race Times\Average Race Times\bin\Debug\Average Race Times.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap03\Average Race Times\Average Race Times\bin\Debug\Average Race Times.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap03\Average Race Times\Average Race Times\obj\Debug\Average Race Times.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap03\Average Race Times\Average Race Times\obj\Debug\Average_Race_Times.Form1.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap03\Average Race Times\Average Race Times\obj\Debug\Average_Race_Times.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap03\Average Race Times\Average Race Times\obj\Debug\Average Race Times.csproj.GenerateResource.Cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap03\Average Race Times\Average Race Times\obj\Debug\Average Race Times.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap03\Average Race Times\Average Race Times\obj\Debug\Average Race Times.pdb
+D:\Documents\Books\C#\4th Edition\Student Sample Programs\Chap03\Average Race Times\Average Race Times\bin\Debug\Average Race Times.exe.config
+D:\Documents\Books\C#\4th Edition\Student Sample Programs\Chap03\Average Race Times\Average Race Times\bin\Debug\Average Race Times.exe
+D:\Documents\Books\C#\4th Edition\Student Sample Programs\Chap03\Average Race Times\Average Race Times\bin\Debug\Average Race Times.pdb
+D:\Documents\Books\C#\4th Edition\Student Sample Programs\Chap03\Average Race Times\Average Race Times\obj\Debug\Average Race Times.csprojAssemblyReference.cache
+D:\Documents\Books\C#\4th Edition\Student Sample Programs\Chap03\Average Race Times\Average Race Times\obj\Debug\Average_Race_Times.Form1.resources
+D:\Documents\Books\C#\4th Edition\Student Sample Programs\Chap03\Average Race Times\Average Race Times\obj\Debug\Average_Race_Times.Properties.Resources.resources
+D:\Documents\Books\C#\4th Edition\Student Sample Programs\Chap03\Average Race Times\Average Race Times\obj\Debug\Average Race Times.csproj.GenerateResource.cache
+D:\Documents\Books\C#\4th Edition\Student Sample Programs\Chap03\Average Race Times\Average Race Times\obj\Debug\Average Race Times.csproj.CoreCompileInputs.cache
+D:\Documents\Books\C#\4th Edition\Student Sample Programs\Chap03\Average Race Times\Average Race Times\obj\Debug\Average Race Times.exe
+D:\Documents\Books\C#\4th Edition\Student Sample Programs\Chap03\Average Race Times\Average Race Times\obj\Debug\Average Race Times.pdb

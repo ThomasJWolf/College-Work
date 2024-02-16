@@ -1,0 +1,10 @@
+D:\Documents\Books\C#\5th Edition (future)\New Material\LINQ\LINQ Source Code\LINQtoArray1\LINQtoArray1\bin\Debug\LINQtoArray1.exe.config
+D:\Documents\Books\C#\5th Edition (future)\New Material\LINQ\LINQ Source Code\LINQtoArray1\LINQtoArray1\bin\Debug\LINQtoArray1.exe
+D:\Documents\Books\C#\5th Edition (future)\New Material\LINQ\LINQ Source Code\LINQtoArray1\LINQtoArray1\bin\Debug\LINQtoArray1.pdb
+D:\Documents\Books\C#\5th Edition (future)\New Material\LINQ\LINQ Source Code\LINQtoArray1\LINQtoArray1\obj\Debug\LINQtoArray1.csprojAssemblyReference.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\LINQ\LINQ Source Code\LINQtoArray1\LINQtoArray1\obj\Debug\LINQtoArray1.Form1.resources
+D:\Documents\Books\C#\5th Edition (future)\New Material\LINQ\LINQ Source Code\LINQtoArray1\LINQtoArray1\obj\Debug\LINQtoArray1.Properties.Resources.resources
+D:\Documents\Books\C#\5th Edition (future)\New Material\LINQ\LINQ Source Code\LINQtoArray1\LINQtoArray1\obj\Debug\LINQtoArray1.csproj.GenerateResource.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\LINQ\LINQ Source Code\LINQtoArray1\LINQtoArray1\obj\Debug\LINQtoArray1.csproj.CoreCompileInputs.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\LINQ\LINQ Source Code\LINQtoArray1\LINQtoArray1\obj\Debug\LINQtoArray1.exe
+D:\Documents\Books\C#\5th Edition (future)\New Material\LINQ\LINQ Source Code\LINQtoArray1\LINQtoArray1\obj\Debug\LINQtoArray1.pdb

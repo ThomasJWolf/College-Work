@@ -1,0 +1,10 @@
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\LambdaPassingDemo\LambdaPassingDemo\bin\Debug\LambdaPassingDemo.exe.config
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\LambdaPassingDemo\LambdaPassingDemo\bin\Debug\LambdaPassingDemo.exe
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\LambdaPassingDemo\LambdaPassingDemo\bin\Debug\LambdaPassingDemo.pdb
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\LambdaPassingDemo\LambdaPassingDemo\obj\Debug\LambdaPassingDemo.csprojAssemblyReference.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\LambdaPassingDemo\LambdaPassingDemo\obj\Debug\LambdaPassingDemo.Form1.resources
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\LambdaPassingDemo\LambdaPassingDemo\obj\Debug\LambdaPassingDemo.Properties.Resources.resources
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\LambdaPassingDemo\LambdaPassingDemo\obj\Debug\LambdaPassingDemo.csproj.GenerateResource.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\LambdaPassingDemo\LambdaPassingDemo\obj\Debug\LambdaPassingDemo.csproj.CoreCompileInputs.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\LambdaPassingDemo\LambdaPassingDemo\obj\Debug\LambdaPassingDemo.exe
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\LambdaPassingDemo\LambdaPassingDemo\obj\Debug\LambdaPassingDemo.pdb

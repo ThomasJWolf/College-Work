@@ -1,0 +1,10 @@
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\MulticastDelegate\MulticastDelegate\bin\Debug\MulticastDelegate.exe.config
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\MulticastDelegate\MulticastDelegate\bin\Debug\MulticastDelegate.exe
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\MulticastDelegate\MulticastDelegate\bin\Debug\MulticastDelegate.pdb
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\MulticastDelegate\MulticastDelegate\obj\Debug\MulticastDelegate.csprojAssemblyReference.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\MulticastDelegate\MulticastDelegate\obj\Debug\MulticastDelegate.Form1.resources
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\MulticastDelegate\MulticastDelegate\obj\Debug\MulticastDelegate.Properties.Resources.resources
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\MulticastDelegate\MulticastDelegate\obj\Debug\MulticastDelegate.csproj.GenerateResource.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\MulticastDelegate\MulticastDelegate\obj\Debug\MulticastDelegate.csproj.CoreCompileInputs.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\MulticastDelegate\MulticastDelegate\obj\Debug\MulticastDelegate.exe
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\MulticastDelegate\MulticastDelegate\obj\Debug\MulticastDelegate.pdb

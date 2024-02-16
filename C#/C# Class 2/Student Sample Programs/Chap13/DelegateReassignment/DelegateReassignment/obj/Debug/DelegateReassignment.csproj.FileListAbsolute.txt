@@ -1,0 +1,10 @@
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\DelegateReassignment\DelegateReassignment\bin\Debug\DelegateReassignment.exe.config
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\DelegateReassignment\DelegateReassignment\bin\Debug\DelegateReassignment.exe
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\DelegateReassignment\DelegateReassignment\bin\Debug\DelegateReassignment.pdb
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\DelegateReassignment\DelegateReassignment\obj\Debug\DelegateReassignment.csprojAssemblyReference.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\DelegateReassignment\DelegateReassignment\obj\Debug\DelegateReassignment.Form1.resources
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\DelegateReassignment\DelegateReassignment\obj\Debug\DelegateReassignment.Properties.Resources.resources
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\DelegateReassignment\DelegateReassignment\obj\Debug\DelegateReassignment.csproj.GenerateResource.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\DelegateReassignment\DelegateReassignment\obj\Debug\DelegateReassignment.csproj.CoreCompileInputs.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\DelegateReassignment\DelegateReassignment\obj\Debug\DelegateReassignment.exe
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\DelegateReassignment\DelegateReassignment\obj\Debug\DelegateReassignment.pdb

@@ -1,0 +1,11 @@
+E:\C#\Wolf_4.9\bin\Debug\Wolf_4.9.exe.config
+E:\C#\Wolf_4.9\bin\Debug\Wolf_4.9.exe
+E:\C#\Wolf_4.9\bin\Debug\Wolf_4.9.pdb
+E:\C#\Wolf_4.9\obj\Debug\Wolf_4.9.csproj.AssemblyReference.cache
+E:\C#\Wolf_4.9\obj\Debug\Wolf_4.9.csproj.SuggestedBindingRedirects.cache
+E:\C#\Wolf_4.9\obj\Debug\Wolf_4._9.Properties.Resources.resources
+E:\C#\Wolf_4.9\obj\Debug\Wolf_4.9.csproj.GenerateResource.cache
+E:\C#\Wolf_4.9\obj\Debug\Wolf_4.9.csproj.CoreCompileInputs.cache
+E:\C#\Wolf_4.9\obj\Debug\Wolf_4.9.exe
+E:\C#\Wolf_4.9\obj\Debug\Wolf_4.9.pdb
+E:\C#\Wolf_4.9\obj\Debug\Wolf_4._9.Dollar_Game.resources

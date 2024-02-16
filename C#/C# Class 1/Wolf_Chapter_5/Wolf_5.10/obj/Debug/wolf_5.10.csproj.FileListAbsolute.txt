@@ -1,0 +1,11 @@
+E:\C#\wolf_5.10\bin\Debug\wolf_5.10.exe.config
+E:\C#\wolf_5.10\bin\Debug\wolf_5.10.exe
+E:\C#\wolf_5.10\bin\Debug\wolf_5.10.pdb
+E:\C#\wolf_5.10\obj\Debug\wolf_5.10.csproj.AssemblyReference.cache
+E:\C#\wolf_5.10\obj\Debug\wolf_5.10.csproj.SuggestedBindingRedirects.cache
+E:\C#\wolf_5.10\obj\Debug\wolf_5._10.Properties.Resources.resources
+E:\C#\wolf_5.10\obj\Debug\wolf_5.10.csproj.GenerateResource.cache
+E:\C#\wolf_5.10\obj\Debug\wolf_5.10.csproj.CoreCompileInputs.cache
+E:\C#\wolf_5.10\obj\Debug\wolf_5.10.exe
+E:\C#\wolf_5.10\obj\Debug\wolf_5.10.pdb
+E:\C#\wolf_5.10\obj\Debug\wolf_5._10.Form1.resources

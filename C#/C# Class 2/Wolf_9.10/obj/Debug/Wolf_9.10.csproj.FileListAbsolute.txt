@@ -1,0 +1,10 @@
+D:\C# 2\Wolf_9.10\bin\Debug\Wolf_9.10.exe.config
+D:\C# 2\Wolf_9.10\bin\Debug\Wolf_9.10.exe
+D:\C# 2\Wolf_9.10\bin\Debug\Wolf_9.10.pdb
+D:\C# 2\Wolf_9.10\obj\Debug\Wolf_9.10.csproj.AssemblyReference.cache
+D:\C# 2\Wolf_9.10\obj\Debug\Wolf_9._10.Form1.resources
+D:\C# 2\Wolf_9.10\obj\Debug\Wolf_9._10.Properties.Resources.resources
+D:\C# 2\Wolf_9.10\obj\Debug\Wolf_9.10.csproj.GenerateResource.cache
+D:\C# 2\Wolf_9.10\obj\Debug\Wolf_9.10.csproj.CoreCompileInputs.cache
+D:\C# 2\Wolf_9.10\obj\Debug\Wolf_9.10.exe
+D:\C# 2\Wolf_9.10\obj\Debug\Wolf_9.10.pdb

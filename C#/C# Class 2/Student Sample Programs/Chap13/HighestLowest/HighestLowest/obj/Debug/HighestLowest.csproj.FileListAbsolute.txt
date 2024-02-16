@@ -1,0 +1,10 @@
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\HighestLowest\HighestLowest\bin\Debug\HighestLowest.exe.config
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\HighestLowest\HighestLowest\bin\Debug\HighestLowest.exe
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\HighestLowest\HighestLowest\bin\Debug\HighestLowest.pdb
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\HighestLowest\HighestLowest\obj\Debug\HighestLowest.csprojAssemblyReference.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\HighestLowest\HighestLowest\obj\Debug\HighestLowest.Form1.resources
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\HighestLowest\HighestLowest\obj\Debug\HighestLowest.Properties.Resources.resources
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\HighestLowest\HighestLowest\obj\Debug\HighestLowest.csproj.GenerateResource.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\HighestLowest\HighestLowest\obj\Debug\HighestLowest.csproj.CoreCompileInputs.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\HighestLowest\HighestLowest\obj\Debug\HighestLowest.exe
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\HighestLowest\HighestLowest\obj\Debug\HighestLowest.pdb

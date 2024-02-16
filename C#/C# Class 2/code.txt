@@ -1,0 +1,33 @@
+char.IsDigit(ch)
+char.IsDigit(str, index)
+
+char.IsLetter(ch)
+char.IsLetter(str, index)
+
+char.IsLetterOrDigit(ch)
+char.IsLetterOrDigit(str, index)
+
+char.IsLower(ch)
+char.IsLower(str, index)
+
+char.IsPunctuation(ch)
+char.IsPunctuation(str, index)
+
+char.IsUpper(ch)
+char.IsUpper(str, index)
+
+char.IsWhiteSpace(ch)
+char.IsWhiteSpace(str, index)
+
+
+ 1 // Create a String to tokenize.
+ 2 string str = "one two three four";
+ 3
+ 4 // Get the tokens from the string.
+ 5 string[] tokens = str.Split(null);
+ 6
+ 7 // Display each token.
+ 8 foreach (string s in tokens)
+ 9 {
+10     MessageBox.Show(s);
+11 }

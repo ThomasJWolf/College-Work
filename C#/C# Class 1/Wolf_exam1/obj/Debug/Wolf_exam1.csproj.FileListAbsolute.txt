@@ -1,0 +1,11 @@
+E:\C#\Wolf_exam1\bin\Debug\Wolf_exam1.exe.config
+E:\C#\Wolf_exam1\bin\Debug\Wolf_exam1.exe
+E:\C#\Wolf_exam1\bin\Debug\Wolf_exam1.pdb
+E:\C#\Wolf_exam1\obj\Debug\Wolf_exam1.csproj.AssemblyReference.cache
+E:\C#\Wolf_exam1\obj\Debug\Wolf_exam1.csproj.SuggestedBindingRedirects.cache
+E:\C#\Wolf_exam1\obj\Debug\Wolf_exam1.Properties.Resources.resources
+E:\C#\Wolf_exam1\obj\Debug\Wolf_exam1.csproj.GenerateResource.cache
+E:\C#\Wolf_exam1\obj\Debug\Wolf_exam1.csproj.CoreCompileInputs.cache
+E:\C#\Wolf_exam1\obj\Debug\Wolf_exam1.exe
+E:\C#\Wolf_exam1\obj\Debug\Wolf_exam1.pdb
+E:\C#\Wolf_exam1\obj\Debug\Wolf_exam1.Checkout.resources

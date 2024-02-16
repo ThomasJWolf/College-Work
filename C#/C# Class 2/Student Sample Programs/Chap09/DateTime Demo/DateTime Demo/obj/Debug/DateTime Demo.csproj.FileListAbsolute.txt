@@ -1,0 +1,9 @@
+D:\Documents\Books\C#\5th Edition (future)\New Material\Dates\Source Code\DateTime Demo\DateTime Demo\bin\Debug\DateTime Demo.exe.config
+D:\Documents\Books\C#\5th Edition (future)\New Material\Dates\Source Code\DateTime Demo\DateTime Demo\bin\Debug\DateTime Demo.exe
+D:\Documents\Books\C#\5th Edition (future)\New Material\Dates\Source Code\DateTime Demo\DateTime Demo\bin\Debug\DateTime Demo.pdb
+D:\Documents\Books\C#\5th Edition (future)\New Material\Dates\Source Code\DateTime Demo\DateTime Demo\obj\Debug\DateTime_Demo.Form1.resources
+D:\Documents\Books\C#\5th Edition (future)\New Material\Dates\Source Code\DateTime Demo\DateTime Demo\obj\Debug\DateTime_Demo.Properties.Resources.resources
+D:\Documents\Books\C#\5th Edition (future)\New Material\Dates\Source Code\DateTime Demo\DateTime Demo\obj\Debug\DateTime Demo.csproj.GenerateResource.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\Dates\Source Code\DateTime Demo\DateTime Demo\obj\Debug\DateTime Demo.csproj.CoreCompileInputs.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\Dates\Source Code\DateTime Demo\DateTime Demo\obj\Debug\DateTime Demo.exe
+D:\Documents\Books\C#\5th Edition (future)\New Material\Dates\Source Code\DateTime Demo\DateTime Demo\obj\Debug\DateTime Demo.pdb

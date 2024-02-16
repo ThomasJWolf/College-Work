@@ -1,0 +1,10 @@
+D:\C# 2\Wolf_Exam1\obj\Debug\Wolf_Exam1.csproj.AssemblyReference.cache
+D:\C# 2\Wolf_Exam1\obj\Debug\Wolf_Exam1.Form1.resources
+D:\C# 2\Wolf_Exam1\obj\Debug\Wolf_Exam1.Properties.Resources.resources
+D:\C# 2\Wolf_Exam1\obj\Debug\Wolf_Exam1.csproj.GenerateResource.cache
+D:\C# 2\Wolf_Exam1\obj\Debug\Wolf_Exam1.csproj.CoreCompileInputs.cache
+D:\C# 2\Wolf_Exam1\bin\Debug\Wolf_Exam1.exe.config
+D:\C# 2\Wolf_Exam1\bin\Debug\Wolf_Exam1.exe
+D:\C# 2\Wolf_Exam1\bin\Debug\Wolf_Exam1.pdb
+D:\C# 2\Wolf_Exam1\obj\Debug\Wolf_Exam1.exe
+D:\C# 2\Wolf_Exam1\obj\Debug\Wolf_Exam1.pdb

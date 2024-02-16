@@ -1,0 +1,11 @@
+E:\C#\Wolf_4.6\bin\Debug\Wolf_4.6.exe.config
+E:\C#\Wolf_4.6\bin\Debug\Wolf_4.6.exe
+E:\C#\Wolf_4.6\bin\Debug\Wolf_4.6.pdb
+E:\C#\Wolf_4.6\obj\Debug\Wolf_4.6.csproj.AssemblyReference.cache
+E:\C#\Wolf_4.6\obj\Debug\Wolf_4.6.csproj.SuggestedBindingRedirects.cache
+E:\C#\Wolf_4.6\obj\Debug\Wolf_4._6.Form1.resources
+E:\C#\Wolf_4.6\obj\Debug\Wolf_4._6.Properties.Resources.resources
+E:\C#\Wolf_4.6\obj\Debug\Wolf_4.6.csproj.GenerateResource.cache
+E:\C#\Wolf_4.6\obj\Debug\Wolf_4.6.csproj.CoreCompileInputs.cache
+E:\C#\Wolf_4.6\obj\Debug\Wolf_4.6.exe
+E:\C#\Wolf_4.6\obj\Debug\Wolf_4.6.pdb

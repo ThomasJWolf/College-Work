@@ -1,0 +1,10 @@
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\LambdaDemo\LambdaDemo\bin\Debug\LambdaDemo.exe.config
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\LambdaDemo\LambdaDemo\bin\Debug\LambdaDemo.exe
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\LambdaDemo\LambdaDemo\bin\Debug\LambdaDemo.pdb
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\LambdaDemo\LambdaDemo\obj\Debug\LambdaDemo.csprojAssemblyReference.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\LambdaDemo\LambdaDemo\obj\Debug\LambdaDemo.Form1.resources
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\LambdaDemo\LambdaDemo\obj\Debug\LambdaDemo.Properties.Resources.resources
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\LambdaDemo\LambdaDemo\obj\Debug\LambdaDemo.csproj.GenerateResource.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\LambdaDemo\LambdaDemo\obj\Debug\LambdaDemo.csproj.CoreCompileInputs.cache
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\LambdaDemo\LambdaDemo\obj\Debug\LambdaDemo.exe
+D:\Documents\Books\C#\5th Edition (future)\New Material\Delegates Source Code\LambdaDemo\LambdaDemo\obj\Debug\LambdaDemo.pdb

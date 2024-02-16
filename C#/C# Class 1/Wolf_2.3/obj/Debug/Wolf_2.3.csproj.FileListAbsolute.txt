@@ -1,0 +1,10 @@
+E:\C#\Wolf_2.3\bin\Debug\Wolf_2.3.exe.config
+E:\C#\Wolf_2.3\bin\Debug\Wolf_2.3.exe
+E:\C#\Wolf_2.3\bin\Debug\Wolf_2.3.pdb
+E:\C#\Wolf_2.3\obj\Debug\Wolf_2._3.Form1.resources
+E:\C#\Wolf_2.3\obj\Debug\Wolf_2._3.Properties.Resources.resources
+E:\C#\Wolf_2.3\obj\Debug\Wolf_2.3.csproj.GenerateResource.cache
+E:\C#\Wolf_2.3\obj\Debug\Wolf_2.3.csproj.CoreCompileInputs.cache
+E:\C#\Wolf_2.3\obj\Debug\Wolf_2.3.exe
+E:\C#\Wolf_2.3\obj\Debug\Wolf_2.3.pdb
+E:\C#\Wolf_2.3\obj\Debug\Wolf_2.3.csproj.AssemblyReference.cache
