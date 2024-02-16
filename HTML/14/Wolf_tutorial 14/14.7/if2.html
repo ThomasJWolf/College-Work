@@ -1,0 +1,35 @@
+<!-- Thomas Wolf 
+    July 26, 2023
+    IST226 Y01
+    Hands-On Practice 14.7 -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head> <!-- web page tab -->
+    <title>JavaScript Practice</title>
+    <meta charset="utf-8">
+    <script>
+        function promptQuantity() {
+            var quantity;
+            quantity = prompt("Please type a quantity greater than 0");
+            if (quantity <= 0) {
+                alert("Quantity is not greater than 0.");
+            } else {
+                alert("Thank you for entering a quantity greater than 0."
+                );
+            } // end if statement
+        } // end function promptQuantity
+    </script>
+</head>
+
+<body>
+    <h1>Using JavaScript</h1> <!-- heading in the body page -->
+    <!-- using a button to get a quantity and call the function
+    prompQuantity -->
+    <button onclick="promptQuantity();">Click to enter quantity
+    </button>
+
+</body>
+
+</html>

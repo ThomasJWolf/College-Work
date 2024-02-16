@@ -1,0 +1,302 @@
+/* Thomas Wolf */
+/* 7/25/23 */
+/* Fish Creek Animal Clinic CSS Page */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #5280C5;
+  color: #003366;
+  font-family: Verdana, Arial, sans-serif;
+  margin: 0;
+}
+
+main {
+  padding-left: 2em;
+  padding-right: 2em;
+  background-color: white;
+  border: 1px solid #AEC3E3;
+  overflow: auto;
+  display: block;
+}
+
+
+header {
+  background-color: #000066;
+  color: #F0F0F0;
+  font-family: Georgia, Times New Roman, serif;
+  background-image: url(lilfish.gif);
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 1em;
+  text-align: center
+}
+
+header a:link {
+  text-decoration: none;
+  color: #F0F0F0;
+}
+
+header a:visited {
+  text-decoration: none;
+  color: #F0F0F0;
+}
+
+header a:hover {
+  color: #AEC3E3;
+}
+
+h1 {
+  font-size: 2em;
+  padding: 0.2em;
+  text-shadow: 1px 1px 2px #CCCCCC;
+}
+
+h2 {
+  font-size: 1.2em;
+  text-shadow: 1px 1px 1px #777;
+}
+
+section h3 {
+  padding: 0.25em;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 110%;
+  background-color: #AEC3E3;
+}
+
+nav {
+  text-align: center;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+nav a:link {
+  color: #000066;
+}
+
+nav a:visited {
+  color: #5280C5;
+}
+
+nav a:hover {
+  color: #3262A3;
+}
+
+nav ul {
+  list-style-type: none;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+  font-size: 1.5em;
+}
+
+nav li {
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  width: 100%;
+  border-bottom: 1px solid;
+}
+
+dt {
+  color: #5280C5;
+  font-size: 1.1em;
+  font-weight: bold;
+  font-family: Georgia, Times New Roman, serif;
+}
+
+.category {
+  font-weight: bold;
+  color: #5380C5;
+  font-family: Georgia, Times New Roman, serif;
+}
+
+footer {
+  font-size: 0.70em;
+  font-style: italic;
+  text-align: center;
+  background-color: #AEC3E3;
+  padding: 1em;
+}
+
+#wrapper {
+  background-color: #F0F0F0;
+}
+
+#address {
+  clear: left;
+}
+
+.floatright {
+  float: right;
+  ;
+}
+
+section {
+  margin-right: 1em;
+  margin-bottom: 1em;
+  padding: 0;
+  background-color: #EAEAEA;
+}
+
+section p {
+  padding-top: 0;
+  padding-left: 0.25em;
+  padding-right: 0.25em;
+  padding-bottom: 0.25em;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  padding-left: 1em;
+  width:
+    80%;
+}
+
+input,
+textarea {
+  margin-bottom: .5em;
+}
+
+/* Configure class named 'shop' */
+.shop {
+  border: 1px solid #AEC3E3;
+  background-color: white;
+}
+
+/* Configure img elements within the 'shop' class */
+.shop img {
+  float: right;
+}
+
+/* Configure form elements within the 'shop' class */
+.shop form {
+  clear: right;
+}
+
+@media (max-width: 320px) {
+  #desktop {
+    display: none;
+  }
+
+  #mobile {
+    display: inline;
+  }
+}
+
+@media (min-width: 600px) {
+  header {
+    background-image: url(bigfish.gif);
+  }
+
+  h1 {
+    font-size: 3em;
+  }
+
+  nav ul {
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    display: flex;
+  }
+
+  nav li {
+    border-bottom: none;
+  }
+
+  #flow {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  section {
+    min-width: 30%;
+    flex: 1;
+  }
+
+  dl {
+    flex: 2;
+  }
+
+  img {
+    flex: 1;
+  }
+
+  form {
+    width: 40%;
+    display: grid;
+    grid-template-columns: 6em 1fr;
+    grid-gap: 1em;
+  }
+
+  form input[type="submit"] {
+    grid-column: 2;
+    width: 9em;
+  }
+
+  label {
+    text-align: right;
+  }
+
+  #mobile {
+    display: none;
+  }
+
+  #desktop {
+    display: inline;
+  }
+}
+
+@media (min-width: 1024px) {
+  @supports (display: grid) {
+
+    header {
+      grid-area: header;
+    }
+
+    nav {
+      grid-area: nav;
+    }
+
+    main {
+      grid-area: main;
+    }
+
+    footer {
+      grid-area: footer;
+    }
+
+    #wrapper {
+      display: grid;
+      grid-template:
+        "header header"
+        "nav main"
+        "nav footer"
+        / 180px 1fr;
+    }
+
+    nav ul {
+      flex-direction: column;
+      font-weight: bold;
+      font-size: 1.25em;
+    }
+  }
+}
+
+table {
+  margin: 1em;
+  border: 2px solid darkblue;
+  border-collapse: collapse;
+}
+
+td,
+th {
+  padding: 0.5em;
+  border: 1px solid darkblue;
+}

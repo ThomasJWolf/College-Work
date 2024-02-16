@@ -1,0 +1,53 @@
+body {
+  background-color: #3F2860;
+  color: #40407A;
+  font-family: Verdana, Arial, sarif;}
+
+header {
+  background-color: #80CBC4;
+  background-image: url(lilyheader.jpg);
+  background-position: right;
+  background-repeat: no-repeat;
+  background-hight: 150px;}
+  
+main {
+	padding-left: 2em;
+	padding-right: 2em;
+	display: block;}
+
+h1 {
+  padding-top: 50px;
+  padding-left: 2em;}
+
+nav {
+  text-align: center;
+  font-weight: bold;
+  padding: 1em;}
+
+nav a {
+  text-decoration: none;}
+
+.studio {
+  font-style: italic;}
+
+footer {
+  background-color: #80CBC4;
+  font-size: 0.60em;
+  font-style: italic;
+  text-align: center;
+  padding: 1em;}
+  
+img {
+  padding-left: 1em;
+  padding-right: 1em;}
+  
+  
+  
+ #wrapper { 
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  background-color: #F5F5F5;
+  min-width: 1000px;
+  max-width: 1280px;}
+  

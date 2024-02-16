@@ -1,0 +1,34 @@
+<!-- Thomas Wolf 
+    July 26, 2023
+    IST226 Y01
+    Hands-On Practice 14.8 -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head> <!-- web page tab -->
+    <title>JavaScript Practice</title>
+    <meta charset="utf-8">
+</head>
+<body>
+    <h1>Using JavaScript</h1> <!-- heading in the body page -->
+    <!-- using a button to get a quantity and use varable myButton
+    -->
+    <button id="myB">Click to enter quantity</button>
+    <script>
+        var myButton = document.getElementById("myB");
+            myButton.addEventListener("click", promptQuantity
+        );
+        var myButton = document.getElementById("myB");
+        function promptQuantity() {
+        var quantity;
+        quantity = prompt("Please type a quantity greater than 0");
+        if (quantity <= 0) {
+            alert("Quantity is not greater than 0.");
+        } else {
+            alert("Thank you for entering a quantity greater than 0.");
+        } // end if statement
+    } // end function promptQuantity
+    </script>
+</body>
+
+</html>

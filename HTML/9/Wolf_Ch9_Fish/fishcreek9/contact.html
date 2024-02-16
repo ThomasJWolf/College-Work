@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title>Fish Creek Animal Clinic</title>
+	<link href="fishcreek.css" rel="stylesheet">
+	<link rel="icon" href="favicon.ico" type="image/x-icon">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+	<div id="wrapper">
+		<header>
+			<h1><a href="index.html">Fish Creek Animal Clinic</a></h1>
+		</header>
+		<nav>
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="services.html">Services</a></li>
+				<li><a href="askvet.html">Ask the Vet</a></li>
+				<li><a href="contact.html">Contact</a></li>
+			</ul>
+		</nav>
+		<main>
+			<h2>Contact Fish Creek</h2>
+			<p>Fill out the form below to contact Fish Creek. All information is required.</p>
+
+			<form action="https://webdevbasics.net/scripts/fishcreek.php" method="post">
+				<label for="myName">Name:</label>
+				<input type="text" name="myName" id="myName" required>
+				<label for="myEmail">E-mail:</label>
+				<input type="email" name="myEmail" id="myEmail" required>
+				<label for="myReason">Reason for Contact:</label>
+				<input type="text" name="myReason" id="myReason" required list="reasons">
+				<datalist id="reasons">
+					<option value="New Patient">
+					<option value="Appointment">
+					<option value="House Call">
+					<option value="Information">
+					<option value="Ask the Vet">
+				</datalist>
+				<label for="myComments">Comments:</label>
+				<textarea name="myComments" id="myComments" rows="2" cols="20" required></textarea>
+
+				<input type="submit" value="Send Now" id="mySubmit">
+			</form>
+		</main>
+		<footer>
+			<p>&copy; 2020 Fish Creek Animal Clinic<br><a href="mailto:thomas@wolf.com">thomas@wolf.com</a></p>
+		</footer>
+	</div>
+</body>
+
+</html>
