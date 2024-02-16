@@ -1,0 +1,45 @@
+Thomas Wolf
+CPT187 – Section C02
+Chapter 10 - Program 5
+
+REQUIREMENTS DOCUMENT
+
+Date Submitted:
+ 4/16/23
+
+Application Title:
+ RetailItem Class
+
+Purpose:
+ To create 3 instances of the class RetailItem
+
+Program Procedures:
+ Procedures to follow when using the program
+
+Algorithms, Processing, and Conditions:
+1. Program starts
+2. Program imports file validate_no_input as validate
+3. Program defines main
+4. Program sets i1, i2, and i3 to RetailItem instances
+5. Program prints i1, i2, and i3 using __str__
+6. Program creates RetailItem class
+    7. RetailItem initializes description, inventory, and price
+    8. RetailItem defines __str__ which prints description, inventory, and price
+    9. RetailItem creates setters for:
+        9a. description which is validated with only letters or spaces
+        9b. inventory which is validated with positive integers and
+        9c. price which is validated with only positive floats
+    10. RetailItem creates getters for description, inventory, and price
+11. Program Ends
+
+Notes and Restrictions:
+ The program needs the file validate_no_input to run
+
+Comments:
+ This program has fancy comments
+
+USE CASE DEFINITION:
+1. User starts program
+2. Program sets all the values
+3. Program prints the info for the three instances
+4. Program ends

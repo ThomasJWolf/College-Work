@@ -1,0 +1,49 @@
+Thomas Wolf
+CPT187 – Section C02
+Chapter 9 - Program 5
+
+REQUIREMENTS DOCUMENT
+
+Date Submitted:
+ 3/20/23
+
+Application Title:
+ Word Frequencies
+
+Purpose:
+ The program will check to see how many times a word shows up in a file
+
+Program Procedures:
+ Run the program
+
+Algorithms, Processing, and Conditions:
+0. User calls the program
+1. Program imports the os and re module
+2. Program checks to see if text exists and appends it to sentence
+3. Program sets all_words to an empty dict
+4. Program iterates over the length of sentence as index
+    5. Program sets i to sentence with the index of index
+    6. Program removes all of the special characters
+    7. Program splits up the string into a list based on the spaces
+    8. Program iterates over i as y
+        9. Program checks if y is in the keys of all_words
+            9a. Program adds 1 to the value
+        10. Program checks if else
+            10a. Program creates a key value pair and sets it to 1
+11. Program makes a list of dict keys sorted
+12. Program iterates over words_list as i
+    12a. Program prints the key and then the value
+13. Program closes
+
+
+Notes and Restrictions:
+ There has to be a file for anything to happen
+
+Comments:
+ You can put almost anything you want in the text file
+
+USE CASE DEFINITION:
+1. User calls the program
+2. Program counts the number of words in the file
+3. Program displays each word and the frequency of it
+4. Program ends

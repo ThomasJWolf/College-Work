@@ -1,0 +1,95 @@
+Thomas Wolf
+CPT187 – Section C02
+Chapter 9 - Program 8
+
+REQUIREMENTS DOCUMENT
+
+Date Submitted:
+ 3/20/23
+
+Application Title:
+ Name and Email Addresses
+
+Purpose:
+ Read a binary file and lets the user view and edit the info and then reassign the binary file
+
+Program Procedures:
+ Run the program, enter a number 1 to 5, then view, add, update, or remove data from the list. 5 to quit
+
+Algorithms, Processing, and Conditions:
+0. User runs program
+1. Program imports the tabulates and pickle modules and my validate function
+2. Program sets emails to a global variable
+3. Program checks to see if emails.dat exists and appends it to emails
+4. Program calls repeat and sets the return to choice
+    5. Program asks the user what they would like to do, only accepting inputs 1 though 5
+    6. User enters a number
+    7. Program returns choice
+8. Program runs a loop while true
+    9. Program checks if choice is equal to 1
+        10. Program calls view_email
+            11. Program sets table to the names of emails and splats them
+            12. Program prints the values with a header in a table
+        13. Program calls repeat and sets the return to choice, refer to steps 4 though 7
+    14. Program checks if choice is equal to 2
+        15. Program calls add_email
+            16. Program sets name to a name the user enters using validate, only takes letters and spaces
+            17. User enters a name
+            18. Program sets email to an emails the user enters using validate, only takes letters, period, and @
+            19. User enters an email
+            20. Program adds name and email to emails as a key value pair
+        21. Program calls repeat and sets the return to choice, refer to steps 4 though 7
+    22. Program checks if choice is equal to 3
+        23. Program calls update_email
+            24. Program sets name to a name the user enters using validate, only takes letters and spaces
+            25. User enters a name
+            26. Program checks if name is in emails
+                26a. Program sets email to an emails the user enters using validate, only takes letters, period, and @
+                26b. User enters an email
+                26c. Program updates the value in the key value pair of name in emails
+            27. Program checks if else
+                27a. Program prints that the emails is not in the database
+        28. Program calls repeat and sets the return to choice, refer to steps 4 though 7
+    29. Program checks if choice is equal to 4
+        30. Program calls delete_emails
+            31. Program sets name to a name the user enters using validate, only takes letters and spaces
+            32. User enters a name
+            33. Program checks if name is in emails
+                33a. Program deletes the key value pair of name in emails
+            34. Program checks if else
+                34a. Program prints that the name is not in the database
+    35. Program checks if else
+        35a. Program writes the dict emails to a file called emails.dat as binary
+        35b. Program breaks the loop
+
+Notes and Restrictions:
+ The program cannot run without the emails.dat file
+
+Comments:
+ I used tabulate to make the display of data look better
+
+USE CASE DEFINITION:
+1. User calls program
+2. Program imports the file to emails
+3. Program asks the user to enter a number 1 though 5
+4. User enters a number
+5. If the number is 1 the program will display the menu
+6. If the number is 2 the program will ask the user for a key and value
+    7. Program asks the user for a name
+    8. User enters a name
+    9. Program asks the user to enter an email
+    10. User enters an email
+    11. Program adds it to the emails dict
+12. If the number is 3 the program will ask the user to update data
+    13. Program asks the user for a name
+    14. User enters a name
+    15. If the name is in emails
+        16. Program asks the user to enter an email
+        17. User enters an email
+        18. Program updates it in the emails dict
+19. If the number is 4 the program will ask the user to remove data
+    20. Program asks the user for a name
+    21. User enters a name
+    22. If the name is in emails
+        23. Program removes the name and email from the dict
+24. If the number is 5 the program writes the menu to a file and ends

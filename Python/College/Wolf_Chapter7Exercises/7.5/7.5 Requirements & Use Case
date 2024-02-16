@@ -1,0 +1,49 @@
+Thomas Wolf
+CPT187 – Section C02
+Chapter 7 - Program 5
+
+REQUIREMENTS DOCUMENT
+
+Date Submitted:
+ January 29th, 2023
+
+Application Title:
+ Charge Account Validation
+
+Purpose:
+ Checks if the inputted numbers are in the charge_account text file
+
+Program Procedures:
+ Call the program and then enter a 7 digit number
+
+Algorithms, Processing, and Conditions:
+1. Program imports the os module.
+2. Program imports the validate file.
+3. Program calls main.
+4. Program sets account_number to an empty list.
+5. Program imports all lines in charge_accounts.txt to account_number.
+6. Program prompts the user enters numbers.
+7. Program prompts user for numbers and checks to ensure the numbers is a integer that is 7 characters long.
+    7a. If numbers is invalid, program prompts user
+    to enter numbers again.
+    7b. If numbers is valid, the program continues.
+8. Program converts the integer to a string.
+9. Program checks if the string value in numbers is in the list account_number.
+	9a. If numbers in account_number then print the number is in the registry.
+	9b. Else then print the number is not in the registry.
+10. Program finishes
+
+Notes and Restrictions:
+ The user can only enter positive integers
+
+Comments:
+The program can not break from user input
+
+USE CASE DEFINITION:
+1. User calls the program
+2. Program prompts the user to enters numbers
+3. Program uses the validate file to validate the numbers are positive integers
+4. Program converts the integer to a string
+5. Program checks if the string value in numbers is in the list account_number
+6. Program displays the results.
+7. Program finishes

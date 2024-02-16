@@ -1,0 +1,48 @@
+Thomas Wolf
+CPT187 – Section C02
+Chapter 9 - Program 3 1 of 2
+
+REQUIREMENTS Decryption
+
+Date Submitted:
+ 3/20/23
+
+Application Title:
+ File Encryption
+
+Purpose:
+ To encrypt a text file
+
+Program Procedures:
+ Run the program
+
+Algorithms, Processing, and Conditions:
+0. User calls the program
+1. Program imports the os module
+2. Program defines the translation dictionary
+3. Program checks to see if text exists and appends it to text
+4. Program calls text_to_encrypt with text
+    5. Program sets encrypt_list to an empty list
+    6. Program iterates over every line in text as i
+        7. Program sets encrypt_string to an empty string
+        8. Program iterates over every character in i as y
+            8a. Program adds the value of TRANSLATE_DICT with the index of y to encrypt_string
+        9. Program appends encrypt_string to encrypt_list
+    10. Program opens text1 as write
+    11. Program iterates over encrypt_list as i
+        11a. Program writes i to the file
+        11b. Program adds a new line to the end of i
+    12. Program closes the file
+
+Notes and Restrictions:
+ The file text must be there od it will not run correctly
+
+Comments:
+ You can put (almost) any piece of text in here and have it run
+
+USE CASE DEFINITION:
+1. User calls the program
+2. Program calls the text file
+3. Program encrypts the data
+4. Program writes data to text1
+5. Program finishes

@@ -1,0 +1,67 @@
+Thomas Wolf
+CPT187 – Section C02
+Chapter 13 - Program 7
+
+REQUIREMENTS DOCUMENT
+
+Date Submitted:
+ 4/28/23
+
+Application Title:
+ Long-Distance Calls
+
+Purpose:
+ Calculate the price of a long distance call with a GUI
+
+Program Procedures:
+ User selects one of the 3 options and enter a value in the box and calculate the price of the call
+
+Algorithms, Processing, and Conditions:
+0. User starts program
+1. Program starts
+2. Program imports tkinter as t
+3. Program creates MyGui class
+    4. Program initializes self
+        5. Program defines the main window with the title "Long-Distance Calls" and the size of 400x200 pixels
+        6. Program creates frames one though four with 2 sub-frames on the first
+        7. Program sets rb_value to 0
+        8. Program defines 4 labels in first_frame1
+        9. Program defines a label and 3 radio buttons
+        10. Program packs everything in first_frame1 and first_frame1 with it to the left side
+        11. Program packs everything in first_frame2 and first_frame2 with it to the left side
+        12. Program defines a label and an entry variable time_enter
+        13. Program packs everything in second_frame to the left side
+        14. Program defines a button that points to the charge function and a button that quits the program
+        15. Program packs everything in third_frame to the left side
+        16. Program defines p_value as a string and 2 labels
+        17. Program packs everything in fourth_frame to the left side
+        18. Program packs each frame
+        19. Program loops the program
+    20. Program defines charge
+        21. Program checks if rb_value is:
+            21a. 1, then rb_value is 0.07
+            21b. 2, then rb_value is 0.12
+            21c. 3, then rb_value is 0.05
+        22. Program trys:
+            22a. Setting time_enter as a float to p
+        23. Program excepts:
+            23a. Prints a error as a separate message box
+        24. Program sets price is p times rb_value
+        25. Program sets p_value to a 0.00 formatted price
+
+Notes and Restrictions:
+ The program should not break if an invalid entry is entered in the entry box
+
+Comments:
+ I wish I could have made the headers line up
+
+USE CASE DEFINITION:
+0. User starts the program
+1. Program displays a GUI window with 6 labels, 2 buttons, and 3 buttons, and a data entry box
+2. User selects one of the radio button options
+3. User enters a number in the data box
+4. User presses the "Calculate" button
+5. Program displays the number entered multiplied by the selected radio button number
+6. User can repeat steps 2-5 forever
+7. User presses the "Quit" button
+8. Program ends

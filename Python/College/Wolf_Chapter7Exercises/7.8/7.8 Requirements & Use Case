@@ -1,0 +1,66 @@
+Thomas Wolf
+CPT187 – Section C02
+Chapter 7 - Program 8
+
+REQUIREMENTS DOCUMENT
+
+Date Submitted:
+ January 29th, 2023
+
+Application Title:
+ Name Search
+
+Purpose:
+ It searches though 1 or 2 list to see if the entered name is in the list.
+
+Program Procedures:
+ The user call the program and enters a name.
+
+Algorithms, Processing, and Conditions:
+1. Program imports the os module.
+2. Program imports the validate file.
+3. Program calls main.
+4. Program sets boy_name to an empty list.
+5. Program sets girl_name to an empty list.
+6. Program imports all lines in BoyNames.txt to boy_names.
+7. Program imports all lines in GirlNames.txt to Girl_names.
+8. Program prompts user to chose between 1 and 3.
+    8a. If gender is 1, program calls boys with the list boy_names
+    8b. If gender is 2, program calls girls.
+    8c. If gender is 3, program calls boys and girls.
+9. Program defines boys function with the list boy_names
+10. Program prompts user for a name and checks to ensure the name is only letters.
+    10a. If name is invalid, program prompts user
+    to enter name again.
+    10b. If name is valid, the program continues.
+11. Program sets name to lower
+12. Program calculates if name is in boy_names.
+    12a. If name is in boy_names, program displays the name and the fact it is in the list.
+    12b. If name is not in boy_names, program displays the name and the fact it is not in the list.
+13. Program defines girls function with the list girl_names
+14. Program prompts user for a name and checks to ensure the name is only letters.
+    14a. If name is invalid, program prompts user
+    to enter name again.
+    14b. If name is valid, the program continues.
+15. Program sets name to lower
+16. Program calculates if name is in girl_names.
+    16a. If name is in girl_names, program displays the name and the fact it is in the list.
+    16b. If name is not in girl_names, program displays the name and the fact it is not in the list.13.
+17. Program finishes
+
+Notes and Restrictions:
+ Only enter letters in the english alphabet.
+
+Comments:
+ The boys code and girls code are the same except for the names of the variables.
+
+USE CASE DEFINITION:
+1. User calls the program
+2. Program prompts the user to enter a number
+3. User enters a number
+4. Program uses the validate file to validate the numbers are integers 1-3
+4. Program asks the user what name you would like
+5. User enters the name
+6. Program calculates if the name is in the list
+7. Program displays the result and the name.
+8. Program finishes

@@ -1,0 +1,66 @@
+Thomas Wolf
+CPT187 – Section C02
+Chapter 10 - Program 6
+
+REQUIREMENTS DOCUMENT
+
+Date Submitted:
+ 4/16/23
+
+Application Title:
+ Patient Charges
+
+Purpose:
+ To make a Patient instance and then make 3 Procedure instances and display them
+
+Program Procedures:
+ Run the program and observe the output
+
+Algorithms, Processing, and Conditions:
+0. Program starts
+1. Program imports the datetime module and the validate_no_input file
+2. Program defines main
+3. Program creates an instance of Patient as patient
+4. Program creates 3 instances of Procedure as procedure_1, _2, and _3
+5. Program adds up the total of the prices in the procedure instances
+6. Program prints the procedure instances and using __str__ and total
+7. Program defines the Patient class:
+    8. Patient initializes:
+        8a. The list name with the objects first_name, middle_name, and last_name
+        8b. The list address with the objects address, city, state, and zip_code
+        8c. The object phone
+        8d. The list emergency with the objects name and phone
+    9. Patient defines __str__ which prints name, address, phone, and emergency
+    10. Patient defines setters:
+        11. name with all objects in the list validated to be only letters
+        12. address with
+            12a. address with validation for only letters, numbers, spaces, '.', ',', and '-',
+            12b. city with validation for only letters, spaces, and -,
+            12c. state with validation for only letters and spaces,
+            12d. zip_code with validation for only a 5-digit number
+        13. phone with validation for only a 10-digit number
+        14. emergency with
+            14a. name with validation for only letters and spaces
+            14b. phone with validation for only a 10-digit number
+    15. Patient defines getters for name, address, phone, and emergency
+16. Program defines the Procedure class:
+    17. Procedure initializes procedure, date, practitioner, price
+    18. Procedure defines __str__ which prints procedure, date, practitioner, price
+    19. Procedure defines setters:
+        20. procedure with validation for only letters, spaces, and dashes
+        21. date with validation of only numbers and -
+        22. practitioner with validation of only letters, spaces and '.'
+        23. price with validation of only positive floats
+    24. Procedure defines getters for name, address, phone, and emergency
+
+Notes and Restrictions:
+ The program needs the file validate_no_input to run
+
+Comments:
+ this program uses date time and will always have the current date
+
+USE CASE DEFINITION:
+1. User starts program
+2. Program sets all the values
+3. Program prints the info for the patient and the three procedure instances then total
+4. Program ends

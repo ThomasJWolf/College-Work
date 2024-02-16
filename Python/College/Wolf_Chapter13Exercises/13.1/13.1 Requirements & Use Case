@@ -1,0 +1,48 @@
+Thomas Wolf
+CPT187 – Section C02
+Chapter 13 - Program 1
+
+REQUIREMENTS DOCUMENT
+
+Date Submitted:
+ 4/28/23
+
+Application Title:
+ Name and Address
+
+Purpose:
+ Create a GUI and display a name and address on a button press
+
+Program Procedures:
+ Run the program and click a button
+
+Algorithms, Processing, and Conditions:
+0. User starts program
+1. Program starts
+2. Program imports tkinter as t
+3. Program creates MyGui class
+    4. Program initializes self
+        5. Program defines the main window with the title "Info" and the size of 200x100 pixels
+        6. Program defines top_frame and bottom_frame
+        7. Program defines a label in top_frame that prints 3 empty lines
+        8. Program defines a button in bottom_frame  that has the text "Show Info" and points to the button1_func function
+        9. Program defines a button in bottom_frame  that quits the program
+        10. Program packs the label and two buttons, with the buttons set to the left
+        11. Program packs top_frame and bottom_frame
+        12. Program loops the program
+    13. Program defines button1_func
+        14. Program unpacks the label, reassigns it with 3 lines of data, and repacks it
+
+Notes and Restrictions:
+ The program will not do anything if you hit the "Show Info" button multiple times
+
+Comments:
+ The GUI is very close to how the book's example looks
+
+USE CASE DEFINITION:
+0. User starts the program
+1. Program displays a GUI window with two buttons
+2. User presses "Show Info" button
+3. Program displays the name and address above the buttons
+4. User presses "Quit" button
+5. Program ends

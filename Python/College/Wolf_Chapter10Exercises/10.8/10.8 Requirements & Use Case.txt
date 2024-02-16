@@ -1,0 +1,34 @@
+Thomas Wolf
+CPT187 – Section C02
+Chapter 10 - Program 8
+
+REQUIREMENTS DOCUMENT
+
+Date Submitted:
+ 4/16/23
+
+Application Title:
+ Cash Register
+
+Purpose:
+ It creates a CashRegister class to add and view items
+
+Program Procedures:
+ Run the program and chose an option from the menue
+
+Algorithms, Processing, and Conditions:
+1. Start
+
+Notes and Restrictions:
+ Will not work without retailItem_Class or validate
+
+Comments:
+ I had to rename retailItem_Class from RetailItem Class because it would not import
+
+USE CASE DEFINITION:
+1. User starts program
+2. Program promps user to pick an option
+3. User picks an option
+4. Program runs that object
+5. Steps 2-4 repeat
+6. Program ends

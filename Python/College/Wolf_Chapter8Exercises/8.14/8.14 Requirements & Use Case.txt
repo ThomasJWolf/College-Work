@@ -1,0 +1,87 @@
+Thomas Wolf
+CPT187 – Section C02
+Chapter 8 - Program 14
+
+REQUIREMENTS DOCUMENT
+
+Date Submitted:
+ February 19th, 2023
+
+Application Title:
+ Gas Prices
+
+Purpose:
+ Inputs data from a file and displays info about the data.
+
+Program Procedures:
+ Call the program
+
+Algorithms, Processing, and Conditions:
+1. Program imports the os, calendar, and csv modules
+2. Program sets bulk to an empty list
+3. Program imports all lines in GasPrices to the list bulk
+4. Program calls the conversion function with the variable bulk
+    5. Program sets date_and_prices to an empty list
+    6. Program appends the month, day, year, and price into date_and_prices as a list making a nested list
+    7. Program returns date_and_prices to main
+8. Program calls the average_price_per_month function with the variable date_and_prices
+    9. Program sets current_month, month, and count to 0 and month_average to an empty list
+    10. Program iterates over the length of date_and_prices
+        11. Program checks to see if the month variable is not 0
+            12. Program checks if in the nested list month in date_and_prices is equal to current_month
+                12a. Program appends the price in the nested list to the month list
+                12b. Program adds 1 to count
+            13. Program runs with if false
+                13a. Program reassigns current month to the new month in the nested list in date_and_prices
+                13b. Program finds the average of month by dividing it by count
+                13c. Program sets month and count to 0
+        14. Program runs with if false
+            14a. Program assigns current_month to the month in the nested list in date_and_prices
+            14b. Program sets the price in the nested list to the month list
+            14c. Program adds 1 to count
+    15. Program pints a header and the average for each month with the month and a new line
+16. Program calls the average_price_per_month function with the variable date_and_prices
+    17. Program sets current_month, month, and count to 0 and month_average to an empty list
+    18. Program sorts date_and_prices by the first index in each nested list, witch is the month
+    19. Program appends a nested list to the end of date_and_prices because the sort is short by 1
+    20. Program iterates over the length of date_and_prices
+        21. Program checks to see if the month variable is not 0
+            22. Program checks if in the nested list month in date_and_prices is equal to current_month
+                22a. Program appends the price in the nested list to the month list
+                22b. Program adds 1 to count
+            23. Program runs with if false
+                23a. Program reassigns current month to the new month in the nested list in date_and_prices
+                23b. Program finds the average of month by dividing it by count
+                23c. Program sets month and count to 0
+        24. Program runs with if false
+            24a. Program assigns current_month to the month in the nested list in date_and_prices
+            24b. Program sets the price in the nested list to the month list
+            24c. Program adds 1 to count
+    25. Program pints a header and the average for each month with the month and a new line
+18. Program gets rid of the last value in the list, it was only there for a sorting error
+20. Program calls the highest_and_lowest_prices_per_year function with the variable date_and_prices
+21. Program sets current_year 0 and year_unsort, year_min, and year_max to an empty list
+22. Program sorts date_and_prices by the third index in each nested list, witch is the year
+23. Program appends a nested list to the end of date_and_prices because the sort is short by 1
+24. Program iterates over the length of date_and_prices
+    25. Program checks to see if the year_unsort list is not empty
+        26. Program checks if in the nested list year in date_and_prices is equal to current_year
+27. Program
+
+
+Notes and Restrictions:
+ The program only works with a file formated the same way as GasPrices.txt
+
+Comments:
+ Couldn't finish the Algorithms, Processing, and Conditions in time :-(
+
+USE CASE DEFINITION:
+1. User calls the program
+2. Program calculates the variables
+3. Program outputs the average price per year
+4. Program outputs the average price per month
+5. Program outputs the lowest to highest price for each year
+6. Program outputs the highest to lowest price for each year
+7. Program outputs all data from highest to lowest to a csv file
+8. Program outputs all data from lowest to highest to a csv file
+9. Program finishes

@@ -1,0 +1,48 @@
+Thomas Wolf
+CPT187 – Section C02
+Chapter 7 - Program 13
+
+REQUIREMENTS DOCUMENT
+
+Date Submitted:
+ January 29th, 2023
+
+Application Title:
+ Magic 8 Ball
+
+Purpose:
+ Show the user a random response from a “magic 8 ball”.
+
+Program Procedures:
+ Call the program and then enter anything into the prompt.
+
+Algorithms, Processing, and Conditions:
+1. Program imports the os module
+2. Program imports the random module
+3. Program imports the validate file
+4. Program calls main
+5. Program sets eight_ball to an empty list
+6. Program checks to see if 8_ball_responses.txt exist and if it does it imports all lines in 8_ball_responses.txt to eight_ball
+7. Program sets again to True
+8. Program starts a loop that only exits when again is not True
+9. Program prompts the user for a question
+10. Program sets a random number from 0 to 11 to shake
+11. Program prints the value in the list eight_ball based on the index shake
+12. Program checks if the string value in again is yes or y.
+	12a. If again is True the loop continues.
+	12b. Else the loop stops.
+13. Program finishes
+
+Notes and Restrictions:
+ This file requires my validate.py file to work.
+
+Comments:
+ The question the user asks is not used at all, it is an unused variable.
+
+USE CASE DEFINITION:
+1. User calls program
+2. Program prompts the user to enter a question
+3. User types a question and hits enter
+4. Program prints one of the items from the eight_ball list based on the random number in shake
+5. User enters text and if it is yes or y the program repeats
+6. Program finishes

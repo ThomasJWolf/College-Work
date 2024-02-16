@@ -1,0 +1,50 @@
+Thomas Wolf
+CPT187 – Section C02
+Chapter 8 - Program 5
+
+REQUIREMENTS DOCUMENT
+
+Date Submitted:
+ February 19th, 2023
+
+Application Title:
+ Alphabetic Telephone Number Translator
+
+Purpose:
+ Translates a phone number with letters to a number with only numbers.
+
+Program Procedures:
+ Call the program and then enter a phone number with the format (XXX-XXX-XXXX)
+
+Algorithms, Processing, and Conditions:
+1. Program imports my validate function
+2. Program creates a global nested list called NUMBERS to store the conversion data
+3. User enters a phone number
+4. Program validates that the phone number is only letters, numbers, or dashes and the input is 12 characters long
+5. Program sets translate to an empty string
+6. Program iterates over the length of phone as i
+    7. Program iterates over the length of NUMBERS as y
+        8. Program iterates over the length of the index of 0 in y in NUMBERS as z
+            9. Program checks if the index of i in phone is equal to the index of z in 0 in y in NUMBERS
+                9a. Program sets temp to the index of 1 in y in NUMBERS
+                9b. Program adds the value in temp as a string to translate
+    10. Program checks if the index of i in phone is a number
+        10a. Program adds the string value of the index i in phone as a string to translate
+    11. Program checks if the index of i in phone is a dash
+        11a. Program adds the value of the index i in phone as a string to translate
+13. Program outputs the translated phone number
+
+
+Notes and Restrictions:
+ The program will only work if the user enters only letters, numbers, or dashes and the input is 12 characters long
+
+Comments:
+ The program will not run without my validate file
+
+USE CASE DEFINITION:
+1. User calls the program
+2. Program prompts the user to enters a phone number
+3. User enters a phone number
+4. Program converts the phone number to only numbers
+5. Program displays the phone number to the user
+6. Program finishes

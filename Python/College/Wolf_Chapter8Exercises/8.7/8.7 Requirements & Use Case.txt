@@ -1,0 +1,45 @@
+Thomas Wolf
+CPT187 – Section C02
+Chapter 8 - Program 7
+
+REQUIREMENTS DOCUMENT
+
+Date Submitted:
+ February 19th, 2023
+
+Application Title:
+ Character Analysis
+
+Purpose:
+ To get the attributes of the data in a file
+
+Program Procedures:
+ Run the program
+
+Algorithms, Processing, and Conditions:
+1. Program imports the os module
+2. Program checks if the text file exists, and adds it to the list sentence
+3. Program sets upper, lower, digit, and space to 0
+4. Program iterates over the length of sentence as i
+5. Program iterates over the length of i as y
+6. Program checks if y is uppercase
+    6a. Program adds 1 to upper
+7. Program checks if y is lowercase
+    7a. Program adds 1 to lower
+8. Program checks if y is a digit
+    8a. Program adds 1 to digit
+9. Program checks if y is a whitespace
+    9a. Program adds 1 to space
+10. Program outputs upper, lower, digit, and space
+
+Notes and Restrictions:
+ A text file is needed for the program to do anything
+
+Comments:
+ Will not crash without a text file
+
+USE CASE DEFINITION:
+1. User calls the program
+2. Program calculates the variables
+3. Program displays the upper, lower, digit, and space
+4. Program ends
