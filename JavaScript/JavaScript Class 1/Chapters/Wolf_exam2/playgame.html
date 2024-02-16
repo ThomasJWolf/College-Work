@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+   <!--
+      JavaScript 7th Edition
+      Exam 2
+
+      Author: Thomas Wolf
+      Date:   11/13/23
+
+      Filename: playgames.html
+   -->
+   <meta charset="utf-8" />
+   <title>Voyage Pixelworks: Play Games</title>
+   <link rel="icon" type="image/logo2.png" sizes="32x32" href="images/logo2.png">
+   <link rel="stylesheet" href="styles/styles.css" />
+   <script src="js/countItUp.js" defer></script>
+</head>
+
+<body>
+   <header>
+      <h1>
+         <img src="images/logo.png" alt="Company Logo" class="logo">
+         <h1>Voyage Pixelworks</h1>
+      </h1>
+   </header>
+
+   <section>
+      <nav>
+         <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="buygames.html">Buy Games</a></li>
+            <li><a href="confirmgames.html">Confirm Games</a></li>
+            <li><a href="wordsquare.html">Word Square</a></li>
+            <li><a href="playgame.html">Play Game</a></li>
+         </ul>
+      </nav>
+   <section id="countItUpGame">
+      <h1>Count It Up</h1>
+      <div id="gameArea">
+         <div id="deckArea">
+            <p>Deck</p>
+         </div>
+         <div id="cardArea">
+         </div>
+         <div id="totalArea">
+            Total: <span id="totalScore">0</span>
+        </div>
+         <div id="pointsArea">
+            Points: <span id="points">1000</span>
+         </div>
+      </div>
+      <div id="controls">
+         <button id="dealButton">Deal</button>
+         <button id="standButton">Stand</button>
+         <button id="resetButton">Reset</button>
+      </div>
+   </section>
+</body>
+
+</html>

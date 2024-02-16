@@ -1,0 +1,16 @@
+{
+  "name": "wolf_lab3",
+  "version": "1.0.0",
+  "description": "lab 3",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies ": {
+    "body-parser": "A1. 19.0",
+    "express ": "A4.17.1",
+    " react": "A16.12.0"
+  }
+}

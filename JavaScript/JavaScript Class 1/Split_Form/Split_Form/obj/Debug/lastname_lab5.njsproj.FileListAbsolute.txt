@@ -1,0 +1,4 @@
+D:\Desktop\Spring 2020\CPT 262\lab5\lastname_lab5\lastname_lab5\obj\Debug\lastname_lab5.njsprojAssemblyReference.cache
+D:\Desktop\Spring 2020\CPT 262\lab5\lastname_lab5\lastname_lab5\bin\Microsoft.NodejsTools.WebRole.dll
+D:\Desktop\Spring 2020\CPT 262\lab5 - Copy\lastname_lab5\lastname_lab5\obj\Debug\lastname_lab5.njsprojAssemblyReference.cache
+D:\Desktop\Spring 2020\CPT 262\lab5 - Copy\lastname_lab5\lastname_lab5\bin\Microsoft.NodejsTools.WebRole.dll
