@@ -1,0 +1,108 @@
+{
+  "version": 2,
+  "www": "erdplus.com",
+  "shapes": [
+    {
+      "type": "Table",
+      "details": {
+        "name": "Customer",
+        "x": 100,
+        "y": 100,
+        "sort": "automatic",
+        "attributes": [
+          {"names": ["CustomerKey"], "order": 1, "pkMember": true, "optional": false, "fk": false},
+          {"names": ["CustomerFirst"], "order": 2, "pkMember": false, "optional": false, "fk": false},
+          {"names": ["CustomerLast"], "order": 3, "pkMember": false, "optional": false, "fk": false},
+          {"names": ["CustomerEmail"], "order": 4, "pkMember": false, "optional": false, "fk": false},
+          {"names": ["CustomerPhone"], "order": 5, "pkMember": false, "optional": false, "fk": false}
+        ],
+        "uniqueGroups": [],
+        "id": 1
+      }
+    },
+    {
+      "type": "Table",
+      "details": {
+        "name": "Request",
+        "x": 300,
+        "y": 100,
+        "sort": "automatic",
+        "attributes": [
+          {"names": ["RequestKey"], "order": 1, "pkMember": true, "optional": false, "fk": false},
+          {"names": ["RequestTitle"], "order": 2, "pkMember": false, "optional": false, "fk": false},
+          {"names": ["RequestDate"], "order": 3, "pkMember": false, "optional": false, "fk": false},
+          {"names": ["RequestStatus"], "order": 4, "pkMember": false, "optional": false, "fk": false}
+        ],
+        "uniqueGroups": [],
+        "id": 2
+      }
+    },
+    {
+      "type": "Table",
+      "details": {
+        "name": "Sales",
+        "x": 500,
+        "y": 100,
+        "sort": "automatic",
+        "attributes": [
+          {"names": ["SaleKey"], "order": 1, "pkMember": true, "optional": false, "fk": false},
+          {"names": ["SaleDate"], "order": 2, "pkMember": false, "optional": false, "fk": false}
+        ],
+        "uniqueGroups": [],
+        "id": 3
+      }
+    },
+    {
+      "type": "Table",
+      "details": {
+        "name": "SaleDetails",
+        "x": 700,
+        "y": 100,
+        "sort": "automatic",
+        "attributes": [
+          {"names": ["SaleDetailKey"], "order": 1, "pkMember": true, "optional": false, "fk": false},
+          {"names": ["SaleDetailPrice"], "order": 2, "pkMember": false, "optional": false, "fk": false}
+        ],
+        "uniqueGroups": [],
+        "id": 4
+      }
+    },
+    {
+      "type": "Table",
+      "details": {
+        "name": "Album",
+        "x": 100,
+        "y": 300,
+        "sort": "automatic",
+        "attributes": [
+          {"names": ["AlbumKey"], "order": 1, "pkMember": true, "optional": false, "fk": false},
+          {"names": ["AlbumDate"], "order": 2, "pkMember": false, "optional": false, "fk": false},
+          {"names": ["AlbumSuggestedPrice"], "order": 3, "pkMember": false, "optional": false, "fk": false},
+          {"names": ["AlbumCondition"], "order": 4, "pkMember": false, "optional": false, "fk": false}
+        ],
+        "uniqueGroups": [],
+        "id": 5
+      }
+    },
+    {
+      "type": "Table",
+      "details": {
+        "name": "Artist",
+        "x": 300,
+        "y": 300,
+        "sort": "automatic",
+        "attributes": [
+          {"names": ["ArtistKey"], "order": 1, "pkMember": true, "optional": false, "fk": false},
+          {"names": ["ArtistName"], "order": 2, "pkMember": false, "optional": false, "fk": false}
+        ],
+        "uniqueGroups": [],
+        "id": 6
+    },
+    "connectors": [
+      {"type": "TableConnector", "details": {"fkAttributeId": 1, "id": 1}, "source": 4, "destination": 1},
+      {"type": "TableConnector", "details": {"fkAttributeId": 1, "id": 2}, "source": 4, "destination": 5}
+    ],
+    "width": 1000,
+    "height": 500
+  }
+}

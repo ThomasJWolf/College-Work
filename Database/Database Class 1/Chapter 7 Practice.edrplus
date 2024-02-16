@@ -1,0 +1,198 @@
+{
+  "version": 2,
+  "www": "erdplus.com",
+  "shapes": [
+    {
+      "type": "Table",
+      "details": {
+        "name": "Student",
+        "x": 100,
+        "y": 100,
+        "sort": "automatic",
+        "attributes": [
+          {
+            "names": ["StudentID"],
+            "order": 1,
+            "pkMember": true,
+            "optional": false,
+            "soloUnique": false,
+            "fk": false,
+            "dataType": "int",
+            "dataTypeSize": null,
+            "id": 1
+          }
+        ],
+        "uniqueGroups": [],
+        "id": 1
+      }
+    },
+    {
+      "type": "Table",
+      "details": {
+        "name": "Course",
+        "x": 400,
+        "y": 100,
+        "sort": "automatic",
+        "attributes": [
+          {
+            "names": ["CourseID"],
+            "order": 1,
+            "pkMember": true,
+            "optional": false,
+            "soloUnique": false,
+            "fk": false,
+            "dataType": "int",
+            "dataTypeSize": null,
+            "id": 2
+          }
+        ],
+        "uniqueGroups": [],
+        "id": 2
+      }
+    },
+    {
+      "type": "Table",
+      "details": {
+        "name": "Assignment",
+        "x": 700,
+        "y": 100,
+        "sort": "automatic",
+        "attributes": [
+          {
+            "names": ["AssignmentID"],
+            "order": 1,
+            "pkMember": true,
+            "optional": false,
+            "soloUnique": false,
+            "fk": false,
+            "dataType": "int",
+            "dataTypeSize": null,
+            "id": 3
+          }
+        ],
+        "uniqueGroups": [],
+        "id": 3
+      }
+    },
+    {
+      "type": "Table",
+      "details": {
+        "name": "StudentCourse",
+        "x": 250,
+        "y": 300,
+        "sort": "automatic",
+        "attributes": [
+          {
+            "names": ["StudentID"],
+            "order": 1,
+            "pkMember": true,
+            "optional": false,
+            "soloUnique": false,
+            "fk": true,
+            "dataType": "int",
+            "dataTypeSize": null,
+            "references": [{"tableId": 1, "attributeId": 1}],
+            "id": 4
+          },
+          {
+            "names": ["CourseID"],
+            "order": 2,
+            "pkMember": true,
+            "optional": false,
+            "soloUnique": false,
+            "fk": true,
+            "dataType": "int",
+            "dataTypeSize": null,
+            "references": [{"tableId": 2, "attributeId": 2}],
+            "id": 5
+          }
+        ],
+        "uniqueGroups": [],
+        "id": 4
+      }
+    },
+    {
+      "type": "Table",
+      "details": {
+        "name": "StudentAssignment",
+        "x": 550,
+        "y": 300,
+        "sort": "automatic",
+        "attributes": [
+          {
+            "names": ["StudentID"],
+            "order": 1,
+            "pkMember": true,
+            "optional": false,
+            "soloUnique": false,
+            "fk": true,
+            "dataType": "int",
+            "dataTypeSize": null,
+            "references": [{"tableId": 1, "attributeId": 1}],
+            "id": 6
+          },
+          {
+            "names": ["CourseID"],
+            "order": 2,
+            "pkMember": true,
+            "optional": false,
+            "soloUnique": false,
+            "fk": true,
+            "dataType": "int",
+            "dataTypeSize": null,
+            "references": [{"tableId": 2, "attributeId": 2}],
+            "id": 7
+          },
+          {
+            "names": ["AssignmentID"],
+            "order": 3,
+            "pkMember": true,
+            "optional": false,
+            "soloUnique": false,
+            "fk": true,
+            "dataType": "int",
+            "dataTypeSize": null,
+            "references": [{"tableId": 3, "attributeId": 3}],
+            "id": 8
+          }
+        ],
+        "uniqueGroups": [],
+        "id": 5
+      }
+    }
+  ],
+  "connectors": [
+    {
+      "type": "TableConnector",
+      "details": {"fkAttributeId": 4, "id": 1},
+      "source": 1,
+      "destination": 4
+    },
+    {
+      "type": "TableConnector",
+      "details": {"fkAttributeId": 5, "id": 2},
+      "source": 2,
+      "destination": 4
+    },
+    {
+      "type": "TableConnector",
+      "details": {"fkAttributeId": 6, "id": 3},
+      "source": 1,
+      "destination": 5
+    },
+    {
+      "type": "TableConnector",
+      "details": {"fkAttributeId": 7, "id": 4},
+      "source": 2,
+      "destination": 5
+    },
+    {
+      "type": "TableConnector",
+      "details": {"fkAttributeId": 8, "id": 5},
+      "source": 3,
+      "destination": 5
+    }
+  ],
+  "width": 1000,
+  "height": 500
+}
