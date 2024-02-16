@@ -1,0 +1,19 @@
+Customer 1:
+Phone Number: 1
+Name: 2
+Address: 3
+
+Backsplash Type: glass mosaic tiles
+Ammount of sq ft: 5.0
+Price of sq ft :11.25
+Cost of installation: 5.0
+Sub total: 16.25
+
+Backsplash Type: marble tiles
+Ammount of sq ft: 3.0
+Price of sq ft :10.5
+Cost of installation: 3.0
+Sub total: 13.5
+
+Total without tax: 29.75
+Total: 32.13

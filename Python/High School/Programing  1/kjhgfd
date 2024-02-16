@@ -1,0 +1,6 @@
+#Thomas Wolf
+#10/18/2018
+#
+
+box1=input("please enter your age:")
+print("you are",box1,"years old")
