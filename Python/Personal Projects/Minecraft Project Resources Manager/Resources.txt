@@ -1,0 +1,68 @@
+Oak Log
+242
+Oak Plank
+258
+Oak Stair
+242
+Spruce Stair
+88
+Glass
+30
+Oak Leaves
+183
+Campfire
+56
+Stone
+104
+Path Block
+77
+Farmland
+68
+Barrel
+1
+Hay
+60
+Seeds
+68
+Composter
+1
+Trap Door
+19
+Sign
+20
+Bed
+2
+Painting
+1
+Bell
+1
+Culdrin
+2
+Chest
+13
+Spruce Trap Door
+52
+Oak Fence
+56
+Oak Door
+4
+Lantern
+1
+Sea Pickle
+6
+Flower Pot
+3
+Flowers
+3
+Bookshelf
+7
+Enchantment Table
+1
+Water Bucket
+5
+Red Carpet
+8
+Grey Carpet
+15
+Yellow Carpet
+15
