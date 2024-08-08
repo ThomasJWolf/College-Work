@@ -1,0 +1,24 @@
+{
+  "name": "wolf_assignment7",
+  "version": "1.0.0",
+  "description": "Assignment 7",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies ": {
+    "body-parser": "A1. 19.0",
+    "express ": "A4.17.1",
+    " react": "A16.12.0"
+  },
+  "dependencies": {
+    "bcrypt": "^4.0.1",
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "mysql": "2.18.1",
+    "mysql2":"^2.1.0",
+    "react": "^16.14.0"
+  }
+}

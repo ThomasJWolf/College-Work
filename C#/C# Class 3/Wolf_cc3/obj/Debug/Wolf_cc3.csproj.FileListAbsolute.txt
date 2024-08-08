@@ -1,0 +1,13 @@
+D:\C# 3\Wolf_cc3\bin\Debug\WolfMedical.mdf
+D:\C# 3\Wolf_cc3\bin\Debug\WolfMedical_log.ldf
+D:\C# 3\Wolf_cc3\bin\Debug\Wolf_cc3.exe.config
+D:\C# 3\Wolf_cc3\bin\Debug\Wolf_cc3.exe
+D:\C# 3\Wolf_cc3\bin\Debug\Wolf_cc3.pdb
+D:\C# 3\Wolf_cc3\obj\Debug\Wolf_cc3.csproj.AssemblyReference.cache
+D:\C# 3\Wolf_cc3\obj\Debug\Wolf_cc3.Properties.Resources.resources
+D:\C# 3\Wolf_cc3\obj\Debug\Wolf_cc3.csproj.GenerateResource.cache
+D:\C# 3\Wolf_cc3\obj\Debug\Wolf_cc3.csproj.CoreCompileInputs.cache
+D:\C# 3\Wolf_cc3\obj\Debug\Wolf_cc3.exe
+D:\C# 3\Wolf_cc3\obj\Debug\Wolf_cc3.pdb
+D:\C# 3\Wolf_cc3\obj\Debug\Wolf_cc3.MedDetailsView.resources
+D:\C# 3\Wolf_cc3\obj\Debug\Wolf_cc3.MedGridView.resources

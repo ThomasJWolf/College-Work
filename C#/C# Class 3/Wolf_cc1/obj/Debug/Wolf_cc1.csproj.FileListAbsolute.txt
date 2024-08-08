@@ -1,0 +1,12 @@
+D:\C# 3\Wolf_cc1\bin\Debug\WolfMedical.mdf
+D:\C# 3\Wolf_cc1\bin\Debug\WolfMedical_log.ldf
+D:\C# 3\Wolf_cc1\bin\Debug\Wolf_cc1.exe.config
+D:\C# 3\Wolf_cc1\bin\Debug\Wolf_cc1.exe
+D:\C# 3\Wolf_cc1\bin\Debug\Wolf_cc1.pdb
+D:\C# 3\Wolf_cc1\obj\Debug\Wolf_cc1.csproj.AssemblyReference.cache
+D:\C# 3\Wolf_cc1\obj\Debug\Wolf_cc1.Form1.resources
+D:\C# 3\Wolf_cc1\obj\Debug\Wolf_cc1.Properties.Resources.resources
+D:\C# 3\Wolf_cc1\obj\Debug\Wolf_cc1.csproj.GenerateResource.cache
+D:\C# 3\Wolf_cc1\obj\Debug\Wolf_cc1.csproj.CoreCompileInputs.cache
+D:\C# 3\Wolf_cc1\obj\Debug\Wolf_cc1.exe
+D:\C# 3\Wolf_cc1\obj\Debug\Wolf_cc1.pdb

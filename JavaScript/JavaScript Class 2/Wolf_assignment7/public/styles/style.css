@@ -1,0 +1,104 @@
+/* Reset margins and paddings for all elements */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body style */
+body {
+  font-family: "Arial", sans-serif;
+  line-height: 1.6;
+  color: #333;
+  background-color: #f4f4f4;
+  padding: 20px;
+}
+
+/* Headings */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-bottom: 20px;
+  color: #444;
+}
+
+/* Paragraphs */
+p {
+  margin-bottom: 15px;
+}
+
+/* Links */
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #0056b3;
+}
+
+/* Lists */
+ul,
+ol {
+  margin-bottom: 20px;
+  padding-left: 20px;
+}
+
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+th,
+td {
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+th {
+  background-color: #f0f0f0;
+}
+
+/* Navigation Link Style */
+nav a {
+  display: inline-block;
+  padding: 0 10px;
+  color: #007bff;
+  text-decoration: none;
+}
+
+/* Add a vertical line after each link except the last one */
+nav a:not(:last-child):after {
+  content: " | ";
+  color: #333;
+}
+
+/* Footer */
+footer {
+  padding: 20px;
+  background-color: #222;
+  color: #fff;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.indicator-input table {
+  width: 100%;
+  border-collapse: collapse; /* Collapses border to avoid double lines */
+}
+
+.indicator-input td {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.indicator-input input {
+  width: 100%;
+  box-sizing: border-box; /* Include padding and border in the input's width */
+}
